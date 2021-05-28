@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ramelloperalta
 - 👀 I’m interested in data science and data analytics !
 - 🌱 I’m currently learning Dash and Tableau dashboard visualizations, Keras, Scrapy, BeautifulSoup and Git 
-linkedin.com/in/ramello-peralta
+ 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ramello-peralta/)
 
 <!---
 ramelloperalta/ramelloperalta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
